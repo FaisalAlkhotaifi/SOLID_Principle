@@ -1,0 +1,12 @@
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/LSP_DEMO/bin/Debug/netcoreapp3.1/LSP_DEMO.deps.json
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/LSP_DEMO/bin/Debug/netcoreapp3.1/LSP_DEMO.runtimeconfig.json
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/LSP_DEMO/bin/Debug/netcoreapp3.1/LSP_DEMO.runtimeconfig.dev.json
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/LSP_DEMO/bin/Debug/netcoreapp3.1/LSP_DEMO.dll
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/LSP_DEMO/bin/Debug/netcoreapp3.1/LSP_DEMO.pdb
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/LSP_DEMO/obj/Debug/netcoreapp3.1/LSP_DEMO.csprojAssemblyReference.cache
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/LSP_DEMO/obj/Debug/netcoreapp3.1/LSP_DEMO.AssemblyInfoInputs.cache
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/LSP_DEMO/obj/Debug/netcoreapp3.1/LSP_DEMO.AssemblyInfo.cs
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/LSP_DEMO/obj/Debug/netcoreapp3.1/LSP_DEMO.csproj.CoreCompileInputs.cache
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/LSP_DEMO/obj/Debug/netcoreapp3.1/LSP_DEMO.dll
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/LSP_DEMO/obj/Debug/netcoreapp3.1/LSP_DEMO.pdb
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/LSP_DEMO/obj/Debug/netcoreapp3.1/LSP_DEMO.genruntimeconfig.cache

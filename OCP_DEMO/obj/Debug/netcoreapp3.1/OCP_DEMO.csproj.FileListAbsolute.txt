@@ -1,0 +1,12 @@
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/OCP_DEMO/bin/Debug/netcoreapp3.1/OCP_DEMO.deps.json
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/OCP_DEMO/bin/Debug/netcoreapp3.1/OCP_DEMO.runtimeconfig.json
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/OCP_DEMO/bin/Debug/netcoreapp3.1/OCP_DEMO.runtimeconfig.dev.json
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/OCP_DEMO/bin/Debug/netcoreapp3.1/OCP_DEMO.dll
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/OCP_DEMO/bin/Debug/netcoreapp3.1/OCP_DEMO.pdb
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/OCP_DEMO/obj/Debug/netcoreapp3.1/OCP_DEMO.csprojAssemblyReference.cache
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/OCP_DEMO/obj/Debug/netcoreapp3.1/OCP_DEMO.AssemblyInfoInputs.cache
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/OCP_DEMO/obj/Debug/netcoreapp3.1/OCP_DEMO.AssemblyInfo.cs
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/OCP_DEMO/obj/Debug/netcoreapp3.1/OCP_DEMO.csproj.CoreCompileInputs.cache
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/OCP_DEMO/obj/Debug/netcoreapp3.1/OCP_DEMO.dll
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/OCP_DEMO/obj/Debug/netcoreapp3.1/OCP_DEMO.pdb
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/OCP_DEMO/obj/Debug/netcoreapp3.1/OCP_DEMO.genruntimeconfig.cache

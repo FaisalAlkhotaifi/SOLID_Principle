@@ -1,0 +1,12 @@
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/SRP_DEMO/bin/Debug/netcoreapp3.1/SRP_DEMO.deps.json
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/SRP_DEMO/bin/Debug/netcoreapp3.1/SRP_DEMO.runtimeconfig.json
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/SRP_DEMO/bin/Debug/netcoreapp3.1/SRP_DEMO.runtimeconfig.dev.json
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/SRP_DEMO/bin/Debug/netcoreapp3.1/SRP_DEMO.dll
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/SRP_DEMO/bin/Debug/netcoreapp3.1/SRP_DEMO.pdb
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/SRP_DEMO/obj/Debug/netcoreapp3.1/SRP_DEMO.csprojAssemblyReference.cache
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/SRP_DEMO/obj/Debug/netcoreapp3.1/SRP_DEMO.AssemblyInfoInputs.cache
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/SRP_DEMO/obj/Debug/netcoreapp3.1/SRP_DEMO.AssemblyInfo.cs
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/SRP_DEMO/obj/Debug/netcoreapp3.1/SRP_DEMO.csproj.CoreCompileInputs.cache
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/SRP_DEMO/obj/Debug/netcoreapp3.1/SRP_DEMO.dll
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/SRP_DEMO/obj/Debug/netcoreapp3.1/SRP_DEMO.pdb
+/Users/falkhotaifi/Desktop/Courses/SOLID Principle/SRP_DEMO/obj/Debug/netcoreapp3.1/SRP_DEMO.genruntimeconfig.cache
