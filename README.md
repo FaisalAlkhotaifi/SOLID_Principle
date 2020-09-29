@@ -25,3 +25,5 @@ It is the best pratice to solve software problems
         - Avoid fat interface
         - Client must not implement unnecessary methods
 - **D** - Depenency Inversion Principle: higher level classes should not know the implementation of low level classes but depend on abstraction.
+    - Other explanation would be:
+        - High level modules should not depend upon low level modules. Both should depend upon abstraction.
