@@ -13,6 +13,9 @@ It is the best pratice to solve software problems
         - Uncle Bob says "There should never be more than one reason for a class to change".
         - A class should have one and only one reason to change, meaning a class should have only one job.
 - **O** - Open / Closed Principle: the class should be open for extension and closed for modification.
+    - Other explanation would be:
+        - "The open/closed principle states that software entitles (classes, modules, functions, etc.) should be open for extension, but closed for modifications." 
+        - Any new functionality should be done by adding new classes instead of changing existing one.
 - **L** - Liskov Substitution Principle: if you substutite any type with one of its subtypes, the behavior should not change.
 - **I** - Interface Segregation Principle: avoid making general interface contains all methods.
 - **D** - Depenency Inversion Principle: higher level classes should not know the implementation of low level classes but depend on abstraction.
