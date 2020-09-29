@@ -17,5 +17,7 @@ It is the best pratice to solve software problems
         - "The open/closed principle states that software entitles (classes, modules, functions, etc.) should be open for extension, but closed for modifications." 
         - Any new functionality should be done by adding new classes instead of changing existing one.
 - **L** - Liskov Substitution Principle: if you substutite any type with one of its subtypes, the behavior should not change.
+    - Other explanation would be:
+        - "If you have class **B** inherits from class **A**, then class **A** should be replaceable by class **B** without any change"
 - **I** - Interface Segregation Principle: avoid making general interface contains all methods.
 - **D** - Depenency Inversion Principle: higher level classes should not know the implementation of low level classes but depend on abstraction.
