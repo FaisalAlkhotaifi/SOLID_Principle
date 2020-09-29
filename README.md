@@ -27,3 +27,9 @@ It is the best pratice to solve software problems
 - **D** - Depenency Inversion Principle (DIP): higher level classes should not know the implementation of low level classes but depend on abstraction.
     - Other explanation would be:
         - High level modules should not depend upon low level modules. Both should depend upon abstraction.
+
+
+
+
+## Resources:
+<https://www.youtube.com/watch?v=-hbWDYRSjqk&list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL&index=1&ab_channel=MohammedReda>
