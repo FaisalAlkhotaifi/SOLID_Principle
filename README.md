@@ -20,4 +20,8 @@ It is the best pratice to solve software problems
     - Other explanation would be:
         - "If you have class **B** inherits from class **A**, then class **A** should be replaceable by class **B** without any change"
 - **I** - Interface Segregation Principle: avoid making general interface contains all methods.
+    - Other explanation would be:
+        - "Client should not be forced to depend on methods they do not use"
+        - Avoid fat interface
+        - Client must not implement unnecessary methods
 - **D** - Depenency Inversion Principle: higher level classes should not know the implementation of low level classes but depend on abstraction.
